@@ -24,3 +24,37 @@ Worklog is a simple, elegant, and efficient web-based tool for maintaining your 
 To run Worklog locally:
 
 1. Clone this repository:
+`git clone https://github.com/leeu1911/worklog`
+
+2. Navigate to the project directory:
+`cd worklog`
+
+3. Open `index.html` in your web browser.
+
+## Deployment
+
+Worklog can be easily deployed using GitHub Pages:
+
+1. Push your changes to your GitHub repository.
+2. Go to your repository's Settings.
+3. Scroll down to the "GitHub Pages" section.
+4. In the "Source" dropdown, select "main" branch and "/root" folder.
+5. Click Save.
+
+Your Worklog will now be available at `https://::YOUR_USERNAME::.github.io/worklog/`.
+
+## Privacy and Data Storage
+
+Worklog uses your browser's localStorage to save entries. This means:
+
+- Your data stays on your device and is not sent to any server.
+- Clearing your browser data will erase your Worklog entries.
+- Different devices or browsers will have separate Worklog data.
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
