@@ -41,7 +41,7 @@ Worklog can be easily deployed using GitHub Pages:
 4. In the "Source" dropdown, select "main" branch and "/root" folder.
 5. Click Save.
 
-Your Worklog will now be available at `https://::YOUR_USERNAME::.github.io/worklog/`.
+Your Worklog will now be available at `https://leeu1911.github.io/worklog/`.
 
 ## Privacy and Data Storage
 
